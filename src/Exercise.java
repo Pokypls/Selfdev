@@ -1,14 +1,14 @@
 
-public class Excercise {
+public class Exercise {
 
 	private String personName;
 
-	public Excercise(String person) {
+	public Exercise(String person) {
 		this.personName = person;
 	}
 
 	@Override
 	public String toString() {
-		return "excercise of " + this.personName;
+		return "exercise of " + this.personName;
 	}
 }

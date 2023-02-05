@@ -4,8 +4,8 @@ public class Start {
 
 	public static void main(String [] args) {
 		
-		Excercise exercise1 = new Excercise("Carl");
-		Excercise exercise2 = new Excercise("Sarah");
+		Exercise exercise1 = new Exercise("Carl");
+		Exercise exercise2 = new Exercise("Sarah");
 		
 		Object a;
 		
